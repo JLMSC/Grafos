@@ -15,7 +15,7 @@
 - [**Criando grafos**](#5-criando-grafos)
 - [**Aplicando Teoremas em grafos**](#6-aplicando-teoremas-em-grafos)
 - [**Fazendo Buscas em grafos**](#7-fazendos-buscas-em-grafos)
-- [**Gerando Árvores**](#8-plantando-árvores)
+- [**Gerando Árvores**](#8-gerando-árvores)
 - [**Otimizando Rotas**](#9-otimizando-rotas)
 - [**Licença**](#10-licença)
 
